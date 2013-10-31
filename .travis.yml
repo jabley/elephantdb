@@ -8,4 +8,5 @@ branches:
     - develop
     - master
 jdk:
-  - openjdk6
+  - openjdk7
+  - oraclejdk7
